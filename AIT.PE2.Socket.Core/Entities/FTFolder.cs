@@ -12,5 +12,13 @@ namespace AIT.PE2.Socket.Core.Entities
         public string FullPath { get; set; }
         public string FullParentPath { get; set; }
         public ICollection<FTFile> FilesInFolder { get; set; }
+
+        public FTFolder(string folderName, string fullPath, string fullParentPath, ICollection<FTFile> filesInFolder)
+        {
+            FolderName = folderName;
+            FullPath = fullPath;
+            FullParentPath = fullParentPath;
+            FilesInFolder = filesInFolder;
+        }
     }
 }
