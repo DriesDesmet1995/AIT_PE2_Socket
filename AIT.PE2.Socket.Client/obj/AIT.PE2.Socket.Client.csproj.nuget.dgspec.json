@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dries\\source\\repos\\AIT.PE2.Socket_DriesDesmet\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj": {}
+    "C:\\Users\\dries\\Source\\Repos\\AITPE2.Socket\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dries\\source\\repos\\AIT.PE2.Socket_DriesDesmet\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj": {
+    "C:\\Users\\dries\\Source\\Repos\\AITPE2.Socket\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dries\\source\\repos\\AIT.PE2.Socket_DriesDesmet\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj",
+        "projectUniqueName": "C:\\Users\\dries\\Source\\Repos\\AITPE2.Socket\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj",
         "projectName": "AIT.PE2.Socket.Client",
-        "projectPath": "C:\\Users\\dries\\source\\repos\\AIT.PE2.Socket_DriesDesmet\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj",
+        "projectPath": "C:\\Users\\dries\\Source\\Repos\\AITPE2.Socket\\AIT.PE2.Socket.Client\\AIT.PE2.Socket.Client.csproj",
         "packagesPath": "C:\\Users\\dries\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dries\\source\\repos\\AIT.PE2.Socket_DriesDesmet\\AIT.PE2.Socket.Client\\obj\\",
+        "outputPath": "C:\\Users\\dries\\Source\\Repos\\AITPE2.Socket\\AIT.PE2.Socket.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
